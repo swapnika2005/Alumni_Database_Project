@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+/**
+ *
+ * @author swapn
+ */
+public class TestDB {
+    public static void main(String[] args) {
+        try {
+            Class.forName("com.mysql.cj.jdbc.Driver");
+
+            Connection con = DriverManager.getConnection(
+                "jdbc:mysql://localhost:3306/alumni?useSSL=false&serverTimezone=UTC",
+                "root",
+                "2005"
+            );
+
+            System.out.println("✅ Connection Successful!");
+            con.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

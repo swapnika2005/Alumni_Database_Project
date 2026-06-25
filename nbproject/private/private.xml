@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/AlumniDatabaseProject/src/AlumniManagementSystem.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/Main.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ManageEventsFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/RegisterFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AlumniUI.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AdminDashboardFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ForgotPasswordFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/LoginFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ViewAchievementsFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/model/Alumni.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/resource/unnamed.jpg</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ViewUsersFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/UpdateProfileFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/LoginUI.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ViewEventsFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AddAlumniFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AddUserFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/TestDB.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/db/DBConnection.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AlumniManagementFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/dao/AlumniDAO.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/AdminEventFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/UserDAO.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/resource/logo.png</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/DeleteUserFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/SearchUserFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/UserDashboardFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/alumni/ui/ViewAlumniFrame.java</file>
+            <file>file:/F:/AlumniDatabaseProject/src/resource/background.png</file>
+        </group>
+    </open-files>
+</project-private>
