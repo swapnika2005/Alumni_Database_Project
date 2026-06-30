@@ -264,18 +264,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
-
-**Swapnika Reddy**
-
-GitHub: https://github.com/swapnika2005
-
-LinkedIn: *(Add your LinkedIn profile URL)*
-
----
-
-## 📄 License
-
 This project is developed for educational and learning purposes.
 
 Feel free to use and enhance it with proper attribution.
